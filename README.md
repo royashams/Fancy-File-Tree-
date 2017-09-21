@@ -7,6 +7,7 @@ Try this on any file or directory, especially if it has more directorie within!
 In your terminal, write the following
 
 >>> make
+
 >>> ./print_ftree your_file_here
 
 And watch the magic happen! just replace your_file_here with any file or directory.
